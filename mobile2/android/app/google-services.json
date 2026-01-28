@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "974422184616",
+    "project_id": "sahabat-bugar",
+    "storage_bucket": "sahabat-bugar.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974422184616:android:5110cd93fc4abf7f10689d",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9zG8QZBsC970ra7brwoa0KXznWJcsjGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

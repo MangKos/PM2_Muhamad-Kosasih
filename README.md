@@ -1,3 +1,6 @@
+## Link Demo
+https://youtu.be/05I5zyINbmM
+
 ## Sahabat Bugar - Aplikasi Fitness Mobile
 
 Sahabat Bugar adalah aplikasi fitness mobile yang membantu pengguna untuk melakukan latihan fisik dengan panduan interaktif, tracking progress, dan motivasi. Dibangun menggunakan Flutter dan Firebase, aplikasi ini menyediakan pengalaman latihan yang terstruktur, dapat disesuaikan, serta menyimpan data secara otomatis.
